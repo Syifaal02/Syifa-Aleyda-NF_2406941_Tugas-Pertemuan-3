@@ -1,2 +1,7 @@
-# Syifa-Aleyda-NF_2406941_Tugas-Pertemuan-3
-Tugas mata kuliah Pemrogragraman Berbasis Objek Pertemuan 3
+# Tugas Pertemuan 3 - Pemrograman Java
+
+**Nama:** Syifa Aleyda Nur Fauziyah  
+**NIM:** 2406941  
+**Kelas:** [Pendidikan Ilmu Komputer A]  
+**Mata Kuliah:** Pemrograman Berorientasi Objek  
+
